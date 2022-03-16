@@ -98,8 +98,6 @@ var lyrics = [
     "I gave away all the things I'm supposed to save, I gave away, so I can be free of all that defines me",
     "Without end, you stole from me, my home, my heart, my family",
 
-
-
 ];
 
 tweetIt();
