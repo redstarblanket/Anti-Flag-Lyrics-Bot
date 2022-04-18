@@ -5,7 +5,7 @@ var T = new Twit(config);
 
 var lyrics = [
 	
-	// Lyrics to be added to their respective album sections later
+    // Lyrics to be added to their respective album sections later
     "On and on, we sing our songs and on and on, the wars wage on and on and on, we sing our songs for more",
     "The products, damage, and pursuit are endless, identity can leave you selfless",
     "In your corner, makes me wanna douse myself in gasoline",
